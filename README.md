@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![count](https://komarev.com/ghpvc/?username=BluePrintYang&style=flat-square)
+![count](https://komarev.com/ghpvc/?username=tinmrn0&style=flat-square)
 
 <!--
 **BluePrintYang/BluePrintYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![BluePrintYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluePrintYang&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![tinmrn0's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinmrn0&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
